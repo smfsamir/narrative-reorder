@@ -1,0 +1,23 @@
+id,dataset,subset,test,input_question,ground_truth,alexa
+24265,msgs,null,main_verb_control_2,"","",TODO
+37609,msgs,null,main_verb_control_5,"","",TODO
+38664,msgs,null,main_verb_lexical_content_the_5,"Some senators who shouldn't praise some nephew aren't noticing that some mentors drive the skateboard., Is the main verb in the progressive form?, Is the word ""the"" present?","1, 1",TODO
+25464,msgs,null,main_verb_lexical_content_the_2,"Some belief that some teacher hinders every grandfather was aiding the guest who had muttered., Is the main verb in the progressive form?, Is the word ""the"" present?","1, 1",TODO
+21973,msgs,null,main_verb_relative_token_position_1,"A friend should say that the waitress wasn't making this vase that worried some grandmother., Is the main verb in the progressive form?, Does the word 'the' precede the word 'a'?","0, 0",TODO
+30736,msgs,null,main_verb_relative_token_position_3,"The fact that a customer that spun around hasn't eaten that tomato is bothering this teacher., Is the main verb in the progressive form?, Does the word 'the' precede the word 'a'?","1, 1",TODO
+34472,msgs,null,syntactic_category_control,"","",TODO
+24705,msgs,null,syntactic_category_control,"","",TODO
+37448,msgs,null,control_raising_control,"","",TODO
+33008,msgs,null,control_raising_control,"","",TODO
+50336,msgs,null,syntactic_category_relative_position,"The partner insulted some book and every student in a river is hot., Is there an adjective present?, Does the word 'the' precede the word 'a'?","1, 1",TODO
+53857,msgs,null,syntactic_category_relative_position,"A best friend had forgiven every teenager and Gary is the boss in no school., Is there an adjective present?, Does the word 'the' precede the word 'a'?","0, 0",TODO
+79984,msgs,null,syntactic_category_lexical_content_the,"Some actresses drop by the hospitals and a boss at those college campuses is strange., Is there an adjective present?, Is the word ""the"" present?","1, 1",TODO
+55897,msgs,null,syntactic_category_lexical_content_the,"Waitresses were tearing more than three socks and a hairdresser is Andrea., Is there an adjective present?, Is the word ""the"" present?","0, 0",TODO
+46688,msgs,null,control_raising_lexical_content_the,"The organizations shouldn't insult these students and every actor isn't willing to astound all classmates., Is the sentence an example of control or raising, Is the word ""the"" present?","1, 1",TODO
+55032,msgs,null,control_raising_lexical_content_the,"Those children wouldn't run around all hospitals and every ex-boyfriend requires Kimberley to forget the teacher., Is the sentence an example of control or raising, Is the word ""the"" present?","1, 1",TODO
+79321,msgs,null,control_raising_relative_token_position,"A grandfather is listening to some best friend and this woman didn't consider Bill to sing the song., Is the sentence an example of control or raising, Does the word 'the' precede the word 'a'?","0, 0",TODO
+40049,msgs,null,control_raising_relative_token_position,"This library bought a scarf and every colleague is happening to bend the computer., Is the sentence an example of control or raising, Does the word 'the' precede the word 'a'?","0, 0",TODO
+33385,msgs,null,relative_position_control,"","",TODO
+31745,msgs,null,relative_position_control,"","",TODO
+29699,msgs,null,lexical_content_the_control,"","",TODO
+24607,msgs,null,lexical_content_the_control,"","",TODO

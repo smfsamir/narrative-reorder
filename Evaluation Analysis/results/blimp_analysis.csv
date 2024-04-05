@@ -1,0 +1,38 @@
+id,dataset,subset,test,input_question,ground_truth,alexa
+380,blimp,irregular_forms,irregular_past_participle_verbs,"Debra broke many cups., Debra broken many cups.","sentence_good, sentence_bad",TODO
+789,blimp,irregular_forms,irregular_past_participle_adjectives,"The forgotten actor wasn't concealed., The forgot actor wasn't concealed.","sentence_good, sentence_bad",TODO
+195,blimp,irregular_forms,irregular_past_participle_adjectives,"The broke screens aren't green., The broken screens aren't green.","sentence_bad, sentence_good",TODO
+269,blimp,control_raising,expletive_it_object_raising,"Many pedestrians were expecting it to be not so obvious that some rice hasn't appeared., Many pedestrians are forcing it to be not so obvious that some rice hasn't appeared.","sentence_good, sentence_bad",TODO
+536,blimp,control_raising,expletive_it_object_raising,"Douglas finds it to be good that an association did debate., Douglas pressed it to be good that an association did debate.","sentence_good, sentence_bad",TODO
+853,blimp,control_raising,existential_there_subject_raising,"There could yearn to be fewer than three cats disappearing., There could seem to be fewer than three cats disappearing.","sentence_bad, sentence_good",TODO
+247,blimp,control_raising,tough_vs_raising_2,"Every daughter of Rebecca was tough to badger Sally's grandmother to smile., Every daughter of Rebecca was about to badger Sally's grandmother to smile.","sentence_bad, sentence_good",TODO
+716,blimp,binding,principle_A_reconstruction,"It's himself who Bruce should conceal., It's himself who should conceal Bruce.","sentence_good, sentence_bad",TODO
+122,blimp,binding,principle_A_case_2,"Kenneth thinks about himself scared the university., Kenneth thinks about himself scaring the university.","sentence_bad, sentence_good",TODO
+806,blimp,anaphor_agreement,anaphor_number_agreement,"People can't approach themselves., People can't approach himself.","sentence_good, sentence_bad",TODO
+207,blimp,anaphor_agreement,anaphor_number_agreement,"Many girls insulted themselves., Many girls insulted herself.","sentence_good, sentence_bad",TODO
+558,blimp,anaphor_agreement,anaphor_gender_agreement,"Ruth returns to itself., Ruth returns to herself.","sentence_bad, sentence_good",TODO
+66,blimp,anaphor_agreement,anaphor_gender_agreement,"Jacqueline likes himself., Jacqueline likes herself.","sentence_bad, sentence_good",TODO
+175,blimp,s-selection,animate_subject_trans,"Jerry talked about Samuel., The print talked about Samuel.","sentence_good, sentence_bad",TODO
+756,blimp,argument_structure,intransitive,"Kathleen's partners were arguing about., Kathleen's partners were divorcing.","sentence_bad, sentence_good",TODO
+551,blimp,argument_structure,drop_argument,"Many governments don't fire., Many governments don't know.","sentence_bad, sentence_good",TODO
+342,blimp,island_effects,complex_NP_island,"Who do some pedestrians' grandmothers who listened to Jodi's cousins approach?, Who do Jodi's cousins approach some pedestrians' grandmothers who listened to?","sentence_good, sentence_bad",TODO
+418,blimp,island_effects,adjunct_island,"What might Timothy lift many movie theaters before buying?, What might Timothy lift before buying many movie theaters?","sentence_bad, sentence_good",TODO
+670,blimp,quantifiers,superlative_quantifiers_1,"No man discussed more than seven waitresses., No man discussed at least seven waitresses.","sentence_good, sentence_bad",TODO
+351,blimp,quantifiers,existential_there_quantifiers_2,"There wasn't each grocery store confusing Douglas., Each grocery store wasn't there confusing Douglas.","sentence_bad, sentence_good",TODO
+414,blimp,quantifiers,superlative_quantifiers_1,"No girl was dropping by at most five college campuses., No girl was dropping by fewer than five college campuses.","sentence_bad, sentence_good",TODO
+246,blimp,subject_verb_agreement,regular_plural_subject_verb_agreement_2,"The girl responds., The girls responds.","sentence_good, sentence_bad",TODO
+481,blimp,subject_verb_agreement,irregular_plural_subject_verb_agreement_1,"The woman wasn't imploring Todd to dislike Deborah., The woman weren't imploring Todd to dislike Deborah.","sentence_good, sentence_bad",TODO
+364,blimp,subject_verb_agreement,regular_plural_subject_verb_agreement_2,"The coats unfolds., The coat unfolds.","sentence_bad, sentence_good",TODO
+963,blimp,subject_verb_agreement,regular_plural_subject_verb_agreement_1,"Guests references Karla., Guests reference Karla.","sentence_bad, sentence_good",TODO
+879,blimp,npi_licensing,npi_present_2,"Walter certainly induced Pamela to discover Richard., Walter ever induced Pamela to discover Richard.","sentence_good, sentence_bad",TODO
+232,blimp,npi_licensing,only_npi_licensor_present,"Only Florence did ever say the reports aren't scaring all teachers., Even Florence did ever say the reports aren't scaring all teachers.","sentence_good, sentence_bad",TODO
+203,blimp,npi_licensing,only_npi_scope,"Christine's sister who only Sabrina upset ever insults April., Only Christine's sister who Sabrina upset ever insults April.","sentence_bad, sentence_good",TODO
+647,blimp,npi_licensing,only_npi_scope,"Most cars that only Sara might see ever turn., Only most cars that Sara might see ever turn.","sentence_bad, sentence_good",TODO
+652,blimp,ellipsis,ellipsis_n_bar_2,"Many brothers of Judy cure one ex-boyfriend and the men cure five young ex-boyfriend., Many brothers of Judy cure one troubled ex-boyfriend and the men cure five young.","sentence_good, sentence_bad",TODO
+747,blimp,ellipsis,ellipsis_n_bar_2,"Bruce hasn't exited one white restaurant and Renee's nephew hasn't exited a few messy., Bruce hasn't exited one restaurant and Renee's nephew hasn't exited a few messy restaurant.","sentence_bad, sentence_good",TODO
+215,blimp,filler_gap_dependency,wh_questions_subject_gap_long_distance,"Valerie can research some government that Nancy upset that won't bore some student., Valerie can research who some government that Nancy upset won't bore some student.","sentence_good, sentence_bad",TODO
+475,blimp,filler_gap_dependency,wh_questions_object_gap,"All students research some paintings that Todd shouldn't discover., All students research what Todd shouldn't discover some paintings.","sentence_good, sentence_bad",TODO
+170,blimp,filler_gap_dependency,wh_questions_subject_gap_long_distance,"Grace hasn't noticed who a lot of students that those snakes irritate hadn't confused some people., Grace hasn't noticed a lot of students that those snakes irritate that hadn't confused some people.","sentence_bad, sentence_good",TODO
+962,blimp,filler_gap_dependency,wh_vs_that_with_gap_long_distance,"Kimberley figures out that a hat that alarmed the girl resembled., Kimberley figures out what a hat that alarmed the girl resembled.","sentence_bad, sentence_good",TODO
+529,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adj_irregular_2,"Most customers are distracting these determined children., Most customers are distracting this determined children.","sentence_good, sentence_bad",TODO
+596,blimp,determiner_noun_agreement,determiner_noun_agreement_1,"Kimberley worried this museums., Kimberley worried this museum.","sentence_bad, sentence_good",TODO

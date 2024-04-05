@@ -1,0 +1,9 @@
+id,dataset,subset,test,input_question,ground_truth,alexa
+sks13,glue,cola,null,I put.,0,TODO
+m_02,glue,cola,null,Miss Bates can chatter on for hours.,1,TODO
+70747c,glue,mnli,null,"{Further, the Comptroller and Auditor General has qualified his opinion on DWP's fiscal year 1995 through fiscal year 2000 financial statements because of the level of fraud and error identified in the benefit programs., There was no fraud and error found in the benefit program., Is the second sentence entailment, contradiction, or neutral to the first?}",contradiction,TODO
+137212e,glue,mnli,null,"{On ranches, border collie puppies are taken from the litter and tested for their instinctual desire to herd sheep., Border collies are taken from their litters as puppies on ranches., Is the second sentence entailment, contradiction, or neutral to the first?}",entailment,TODO
+54829,glue,qnli,null,"{Which dynasty did Yellow Tiger declare himself the emperor of?, Upon capturing it, he declared himself emperor of the Daxi Dynasty (大西王朝)., Is the second sentence entailment to the first?}",entailment,TODO
+56525,glue,qnli,null,"{What type of aircraft did the Torch team travel in?, Internationally, the torch and its accompanying party traveled in a chartered Air China Airbus A330 (registered B-6075), painted in the red and yellow colors of the Olympic Games., Is the second sentence entailment to the first?}",entailment,TODO
+401565,glue,qqp,null,"{In the 1880s, if the whole British Empire declared war on France, Germany, and Spain, who would win?, Who would win if Germany (NATO not involved) declared war to Russia in modern times?, Are these two questions duplicates?}",0,TODO
+12888,glue,qqp,null,"{What are the benefits of GST bill for common peoples?, What's the importance of GST bill in India?, Are these two questions duplicates?}",1,TODO

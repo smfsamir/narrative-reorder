@@ -1,0 +1,23 @@
+id,dataset,subset,test,input_question,ground_truth,alexa
+79065,msgs,null,control_raising_lexical_content_the,"{This grandson repaired every screen and every adult is seeming to discuss that classmate., Is the sentence an example of control or raising, Is the word ""the"" present?}","{0, 0}",TODO
+44008,msgs,null,control_raising_lexical_content_the,"{The French teachers cured that associate and many girls fail to impress most children., Is the sentence an example of control or raising, Is the word ""the"" present?}","{1, 1}",TODO
+27140,msgs,null,main_verb_lexical_content_the_2,"{The speculation that this government works with these grandmothers who waved wasn't embarrassing a waitress., Is the main verb in the progressive form?, Is the word ""the"" present?}","{1, 1}",TODO
+27101,msgs,null,main_verb_lexical_content_the_2,"{Every wife would destroy some dishes many men who aren't scanning a lot of students couldn't conceal., Is the main verb in the progressive form?, Is the word ""the"" present?}","{0, 0}",TODO
+77336,msgs,null,syntactic_category_lexical_content_the,"{Fewer than three French teachers haven't admired an ex-girlfriend and the ex-husband on this college campus is slim., Is there an adjective present?, Is the word ""the"" present?}","{1, 1}",TODO
+58504,msgs,null,syntactic_category_lexical_content_the,"{Most ships have looked like the photograph and Paul is a bad doctor., Is there an adjective present?, Is the word ""the"" present?}","{1, 1}",TODO
+32769,msgs,null,main_verb_relative_token_position_4,"{Every boyfriend had listened to a man that wouldn't disturb some French teacher the daughter is shaking., Is the main verb in the progressive form?, Does the word 'the' precede the word 'a'?}","{0, 0}",TODO
+37569,msgs,null,main_verb_relative_token_position_5,"{That grandmother a library is criticizing explained that that French teacher has descended the slope., Is the main verb in the progressive form?, Does the word 'the' precede the word 'a'?}","{0, 0}",TODO
+56209,msgs,null,control_raising_relative_token_position,"{A man discussed some man and every hospital turns out to buy the beer., Is the sentence an example of control or raising, Does the word 'the' precede the word 'a'?}","{0, 0}",TODO
+60985,msgs,null,control_raising_relative_token_position,"{A contractor visited the child and that tutor had happened to attack some partner., Is the sentence an example of control or raising, Does the word 'the' precede the word 'a'?}","{0, 0}",TODO
+73545,msgs,null,syntactic_category_relative_position,"{A lady had praised each patient and the guy is Rodney., Is there an adjective present?, Does the word 'the' precede the word 'a'?}","{0, 0}",TODO
+62505,msgs,null,syntactic_category_relative_position,"{A doctor drank any beer and the mentor is Aaron., Is there an adjective present?, Does the word 'the' precede the word 'a'?}","{0, 0}",TODO
+25104,msgs,null,control_raising_control,"{A lot of teenagers will discover these eyes and this customer is overjoyed to hug Erin., Is the sentence an example of control or raising}",{1},TODO
+33389,msgs,null,control_raising_control,"{Most piano teachers breed a lot of fish and these senators believe Kevin to shoot that teacher., Is the sentence an example of control or raising}",{0},TODO
+23784,msgs,null,main_verb_control_1,"{A notion that a doctor destroyed a car that will maneuver isn't stunning the contractors, Is the main verb in the progressive form?}",{1},TODO
+37065,msgs,null,main_verb_control_5,"{A notion that a piano teacher isn't revealing the ship that had tipped over couldn't disgust the senators, Is the main verb in the progressive form?}",{0},TODO
+28072,msgs,null,syntactic_category_control,"{The patient at those movie theaters is organized., Is there an adjective present?}",{1},TODO
+31184,msgs,null,syntactic_category_control,"{Phillip is the interesting patient., Is there an adjective present?}",{1},TODO
+20043,msgs,null,lexical_content_the_control,"{Every man that complains about all paralyses doubted that every doctor fixes no glass, Is the word 'the' present?}",{0},TODO
+26758,msgs,null,lexical_content_the_control,"{Some ladies who aren't complaining about that teacher remember that these patients underwhelmed the bank, Is the word 'the' present?}",{1},TODO
+27232,msgs,null,relative_position_control,"{Every driver who notices the nose wouldn't doubt that this student hurt a son, Does the word 'the' precede the word 'a'?}",{1},TODO
+24044,msgs,null,relative_position_control,"{The lawyer who didn't reveal a gate hasn't disliked that that tutor has taken this foot, Does the word 'the' precede the word 'a'?}",{1},TODO

@@ -1,0 +1,299 @@
+id,dataset,subset,test,input_question,ground_truth,alexa
+823,blimp,ellipsis,ellipsis_n_bar_2,Melinda could visit three nieces of and Jessica could visit two hopeful nieces of.,sentence_good,TODO
+34,blimp,ellipsis,ellipsis_n_bar_2,A lady's contractors bore a lot of grandmothers of and those essays bore a few upset grandmothers of.,sentence_good,TODO
+544,blimp,ellipsis,ellipsis_n_bar_2,Suzanne's grandmother discussed four hidden ex-wives and Gregory discussed five nice.,sentence_bad,TODO
+0,blimp,ellipsis,ellipsis_n_bar_2,A friend of Pamela hasn't attacked one unemployed person and Ann hasn't attacked more unsure.,sentence_bad,TODO
+783,blimp,binding,principle_A_case_2,Kevin couldn't imagine himself cleaning every high school.,sentence_good,TODO
+199,blimp,binding,principle_A_case_2,Pedestrians do think about themselves escaping from glaciers.,sentence_good,TODO
+283,blimp,binding,principle_A_case_2,Sherry thought about herself questions every adult.,sentence_bad,TODO
+749,blimp,binding,principle_A_case_2,Many people think about themselves disgusts Guy.,sentence_bad,TODO
+281,blimp,quantifiers,existential_there_quantifiers_1,There is a legislature thinking about who say the carriage hadn't impressed Sara.,sentence_good,TODO
+405,blimp,quantifiers,existential_there_quantifiers_1,There wasn't an association appreciating Angela.,sentence_good,TODO
+891,blimp,quantifiers,existential_there_quantifiers_1,There isn't every son of Florence weeping.,sentence_bad,TODO
+744,blimp,quantifiers,existential_there_quantifiers_1,There wasn't every popsicle evaporating.,sentence_bad,TODO
+586,blimp,argument_structure,causative,Rodney brightened some screens.,sentence_good,TODO
+295,blimp,argument_structure,causative,Carl hadn't worried that association.,sentence_good,TODO
+658,blimp,argument_structure,causative,Scott isn't existing some window.,sentence_bad,TODO
+381,blimp,argument_structure,causative,Winston Churchill spoke up Marie.,sentence_bad,TODO
+926,blimp,subject_verb_agreement,distractor_agreement_relative_clause,Many students who have insulted Janet attack Bradley.,sentence_good,TODO
+712,blimp,subject_verb_agreement,distractor_agreement_relative_clause,All drivers that loved Alan do attack Melanie.,sentence_good,TODO
+877,blimp,subject_verb_agreement,distractor_agreement_relative_clause,Some teenagers that irritated the boy replies.,sentence_bad,TODO
+427,blimp,subject_verb_agreement,distractor_agreement_relative_clause,A shoe that annoys a lot of guys upset the Borgias.,sentence_bad,TODO
+88,blimp,anaphor_agreement,anaphor_number_agreement,This organization hadn't aggravated itself.,sentence_good,TODO
+856,blimp,anaphor_agreement,anaphor_number_agreement,Claire disliked herself.,sentence_good,TODO
+442,blimp,anaphor_agreement,anaphor_number_agreement,Angela concealed themselves.,sentence_bad,TODO
+12,blimp,anaphor_agreement,anaphor_number_agreement,Becca shouldn't impress themselves.,sentence_bad,TODO
+517,blimp,filler_gap_dependency,wh_vs_that_no_gap,Eric hadn't revealed that a lot of newspaper articles disagree with Linda.,sentence_good,TODO
+722,blimp,filler_gap_dependency,wh_vs_that_no_gap,Marcus isn't figuring out that a lot of guests are discovering Stacy.,sentence_good,TODO
+32,blimp,filler_gap_dependency,wh_vs_that_no_gap,Tina had forgotten who a teacher escaped from Ellen.,sentence_bad,TODO
+689,blimp,filler_gap_dependency,wh_vs_that_no_gap,All patients learn what a man examined that report.,sentence_bad,TODO
+501,blimp,s-selection,animate_subject_trans,Rachel discovered this library.,sentence_good,TODO
+115,blimp,s-selection,animate_subject_trans,Nicole isn't approaching Sabrina.,sentence_good,TODO
+270,blimp,s-selection,animate_subject_trans,Every eggplant was leaving Helen.,sentence_bad,TODO
+209,blimp,s-selection,animate_subject_trans,That muffin sees most patients.,sentence_bad,TODO
+512,blimp,quantifiers,superlative_quantifiers_1,No cashier sold more than three cars.,sentence_good,TODO
+734,blimp,quantifiers,superlative_quantifiers_1,No eggplant looked like fewer than seven pictures.,sentence_good,TODO
+630,blimp,quantifiers,superlative_quantifiers_1,No guy sounds like at least four high schools.,sentence_bad,TODO
+560,blimp,quantifiers,superlative_quantifiers_1,No actress is irritating at most four committees.,sentence_bad,TODO
+845,blimp,determiner_noun_agreement,determiner_noun_agreement_irregular_2,All people drop by these oases.,sentence_good,TODO
+606,blimp,determiner_noun_agreement,determiner_noun_agreement_irregular_2,The guests sound like those analyses.,sentence_good,TODO
+44,blimp,determiner_noun_agreement,determiner_noun_agreement_irregular_2,Susan notices this teeth.,sentence_bad,TODO
+665,blimp,determiner_noun_agreement,determiner_noun_agreement_irregular_2,A lot of cashiers boast about those man.,sentence_bad,TODO
+136,blimp,npi_licensing,only_npi_scope,Only Regina's students who Scott escaped from ever press all actors to look like that print.,sentence_good,TODO
+356,blimp,npi_licensing,only_npi_scope,Only all closets that most doctors brought should ever appear.,sentence_good,TODO
+139,blimp,npi_licensing,only_npi_scope,Rebecca's fathers that only Angela annoyed had ever concealed an actor.,sentence_bad,TODO
+29,blimp,npi_licensing,only_npi_scope,This grandson of Sarah who only all waitresses are investigating had ever discovered Walter to remember a lot of guys.,sentence_bad,TODO
+916,blimp,subject_verb_agreement,irregular_plural_subject_verb_agreement_1,Some person grins.,sentence_good,TODO
+141,blimp,subject_verb_agreement,irregular_plural_subject_verb_agreement_1,Most lice irritate Marla.,sentence_good,TODO
+852,blimp,subject_verb_agreement,irregular_plural_subject_verb_agreement_1,Every basis aren't astounding Daniel.,sentence_bad,TODO
+85,blimp,subject_verb_agreement,irregular_plural_subject_verb_agreement_1,A lot of fungi is impressing Eva.,sentence_bad,TODO
+362,blimp,npi_licensing,sentential_negation_npi_scope,A father of John who had exited a lot of schools had not ever written.,sentence_good,TODO
+120,blimp,npi_licensing,sentential_negation_npi_scope,That banana that did disturb Dan had not ever disturbed Paul.,sentence_good,TODO
+591,blimp,npi_licensing,sentential_negation_npi_scope,A lot of fathers of Heather who are not healing Charles did ever hope to kiss Eric.,sentence_bad,TODO
+649,blimp,npi_licensing,sentential_negation_npi_scope,A brother of Sonia who was not arguing about Catherine had ever sat down.,sentence_bad,TODO
+531,blimp,binding,principle_A_reconstruction,It's herself who Monica wasn't fleeing from.,sentence_good,TODO
+144,blimp,binding,principle_A_reconstruction,It's herself that Jill couldn't think about.,sentence_good,TODO
+428,blimp,binding,principle_A_reconstruction,It's himself that hasn't impressed this man.,sentence_bad,TODO
+676,blimp,binding,principle_A_reconstruction,It's herself who is thinking about Kirsten.,sentence_bad,TODO
+148,blimp,island_effects,left_branch_island_simple_question,Which book is Natalie selling?,sentence_good,TODO
+693,blimp,island_effects,left_branch_island_simple_question,What mountains has Kirsten skated around?,sentence_good,TODO
+603,blimp,island_effects,left_branch_island_simple_question,Which will a photograph look like student?,sentence_bad,TODO
+510,blimp,island_effects,left_branch_island_simple_question,Which has Craig helped alumni?,sentence_bad,TODO
+503,blimp,argument_structure,passive_1,Scott is respected by Rhonda's daughter.,sentence_good,TODO
+914,blimp,argument_structure,passive_1,The guests were investigated by some friend of Jesus.,sentence_good,TODO
+858,blimp,argument_structure,passive_1,Naomi's French teachers are chatted by drivers' cousin.,sentence_bad,TODO
+380,blimp,argument_structure,passive_1,Dan's hairdressers are communicated by every bicycle.,sentence_bad,TODO
+712,blimp,argument_structure,drop_argument,Lori wasn't descending.,sentence_good,TODO
+45,blimp,argument_structure,drop_argument,Sabrina's boss sells.,sentence_good,TODO
+752,blimp,argument_structure,drop_argument,Tonya doesn't reference.,sentence_bad,TODO
+562,blimp,argument_structure,drop_argument,April's guest wasn't walking through.,sentence_bad,TODO
+120,blimp,quantifiers,existential_there_quantifiers_2,Most glasses were there soaking.,sentence_good,TODO
+648,blimp,quantifiers,existential_there_quantifiers_2,Each fork wasn't there appearing.,sentence_good,TODO
+25,blimp,quantifiers,existential_there_quantifiers_2,There wasn't every coat twirling.,sentence_bad,TODO
+258,blimp,quantifiers,existential_there_quantifiers_2,There is each book annoying Tanya.,sentence_bad,TODO
+101,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adj_2,Guys love those small teenagers.,sentence_good,TODO
+91,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adj_2,Liam flees from those determined actors.,sentence_good,TODO
+650,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adj_2,Many senators run around that concealed movie theaters.,sentence_bad,TODO
+370,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adj_2,All stories didn't distract these popular adult.,sentence_bad,TODO
+899,blimp,island_effects,wh_island,Who might Pamela reveal she didn't question?,sentence_good,TODO
+408,blimp,island_effects,wh_island,What was some boy realizing he didn't sound like?,sentence_good,TODO
+984,blimp,island_effects,wh_island,What has Nancy revealed who climbs up?,sentence_bad,TODO
+15,blimp,island_effects,wh_island,Who shouldn't Janet know who doesn't reveal?,sentence_bad,TODO
+526,blimp,ellipsis,ellipsis_n_bar_1,A customer is impressing one young tutor and Grace's cousin is impressing more.,sentence_good,TODO
+140,blimp,ellipsis,ellipsis_n_bar_1,Ruth's electrician concealed one hopeful teenager and Heidi concealed several.,sentence_good,TODO
+757,blimp,ellipsis,ellipsis_n_bar_1,Those waitresses skate around one river and the Lutherans skate around a lot brown.,sentence_bad,TODO
+990,blimp,ellipsis,ellipsis_n_bar_1,Todd hired one father of and Deborah hired four confident.,sentence_bad,TODO
+489,blimp,binding,principle_A_case_1,Jacqueline imagined that she annoyed Deanna.,sentence_good,TODO
+626,blimp,binding,principle_A_case_1,Curtis was explaining that he was listening to Kenneth.,sentence_good,TODO
+134,blimp,binding,principle_A_case_1,The Clintons explain that themselves had worked with Sally.,sentence_bad,TODO
+100,blimp,binding,principle_A_case_1,Keith says that himself has thought about the window.,sentence_bad,TODO
+203,blimp,quantifiers,superlative_quantifiers_2,A patient arrived at at least three public parks.,sentence_good,TODO
+47,blimp,quantifiers,superlative_quantifiers_2,This actress might praise at most eight customers.,sentence_good,TODO
+225,blimp,quantifiers,superlative_quantifiers_2,No shirt is hurting at least three pedestrians.,sentence_bad,TODO
+864,blimp,quantifiers,superlative_quantifiers_2,No patient cared for at most six cashiers.,sentence_bad,TODO
+871,blimp,argument_structure,inchoative,This spinach was blackening.,sentence_good,TODO
+523,blimp,argument_structure,inchoative,Some mirror hasn't cracked.,sentence_good,TODO
+763,blimp,argument_structure,inchoative,Many eggplants conceal.,sentence_bad,TODO
+271,blimp,argument_structure,inchoative,Some light has lifted.,sentence_bad,TODO
+443,blimp,filler_gap_dependency,wh_questions_subject_gap,Dana hasn't seen this eye that shocked Lawrence.,sentence_good,TODO
+769,blimp,filler_gap_dependency,wh_questions_subject_gap,Suzanne hasn't known those patients that might reveal the report.,sentence_good,TODO
+86,blimp,filler_gap_dependency,wh_questions_subject_gap,Paul should know who many guests fire William.,sentence_bad,TODO
+490,blimp,filler_gap_dependency,wh_questions_subject_gap,Sarah investigates who many actresses aren't noticing Diana.,sentence_bad,TODO
+584,blimp,island_effects,adjunct_island,Who was some cafe shocking after irritating the senators?,sentence_good,TODO
+909,blimp,island_effects,adjunct_island,Who has Homer hated while concealing Brad?,sentence_good,TODO
+471,blimp,island_effects,adjunct_island,Who could music annoy Mitchell while shocking?,sentence_bad,TODO
+315,blimp,island_effects,adjunct_island,Who was Jane worrying Noah without annoying?,sentence_bad,TODO
+303,blimp,island_effects,complex_NP_island,Who are most girls that have hidden the schools praising?,sentence_good,TODO
+287,blimp,island_effects,complex_NP_island,Who has Lucille's ex-boyfriend that fled from Homer listened to?,sentence_good,TODO
+846,blimp,island_effects,complex_NP_island,What haven't Beverly's employees fled from these actresses that are visiting?,sentence_bad,TODO
+41,blimp,island_effects,complex_NP_island,Who is this student praising a woman who insults?,sentence_bad,TODO
+228,blimp,filler_gap_dependency,wh_vs_that_with_gap,Kathleen isn't realizing who every child shouldn't talk about.,sentence_good,TODO
+332,blimp,filler_gap_dependency,wh_vs_that_with_gap,The Clintons find out what every man admires.,sentence_good,TODO
+590,blimp,filler_gap_dependency,wh_vs_that_with_gap,Jerry realized that some ladies revealed.,sentence_bad,TODO
+174,blimp,filler_gap_dependency,wh_vs_that_with_gap,Benjamin has investigated that this cashier did lift.,sentence_bad,TODO
+904,blimp,subject_verb_agreement,irregular_plural_subject_verb_agreement_2,The alumnus coughs.,sentence_good,TODO
+147,blimp,subject_verb_agreement,irregular_plural_subject_verb_agreement_2,The woman has chuckled.,sentence_good,TODO
+815,blimp,subject_verb_agreement,irregular_plural_subject_verb_agreement_2,The alumnus weren't descending all hills.,sentence_bad,TODO
+919,blimp,subject_verb_agreement,irregular_plural_subject_verb_agreement_2,The axis aren't upsetting those companies.,sentence_bad,TODO
+133,blimp,determiner_noun_agreement,determiner_noun_agreement_irregular_1,Most drivers argue about this synopsis.,sentence_good,TODO
+156,blimp,determiner_noun_agreement,determiner_noun_agreement_irregular_1,Homer likes that woman.,sentence_good,TODO
+491,blimp,determiner_noun_agreement,determiner_noun_agreement_irregular_1,A lot of prints looked like these nucleus.,sentence_bad,TODO
+424,blimp,determiner_noun_agreement,determiner_noun_agreement_irregular_1,Stacey discovers these mouse.,sentence_bad,TODO
+303,blimp,control_raising,expletive_it_object_raising,Every library isn't discovering it to be natural that Amanda is ordering some woman to change.,sentence_good,TODO
+855,blimp,control_raising,expletive_it_object_raising,Maria couldn't need it to be sad that a patient had discovered what tempt Tamara to aggravate Brenda.,sentence_good,TODO
+702,blimp,control_raising,expletive_it_object_raising,Tonya's mentees haven't encouraged it to be natural that the men motivate adults' ex-girlfriend to fall asleep.,sentence_bad,TODO
+801,blimp,control_raising,expletive_it_object_raising,That driver prodded it to be not so surprising that the actors spin around.,sentence_bad,TODO
+187,blimp,filler_gap_dependency,wh_questions_subject_gap_long_distance,Brett should discover every synopsis that some girls research that insults many cafes.,sentence_good,TODO
+937,blimp,filler_gap_dependency,wh_questions_subject_gap_long_distance,Nicole hasn't thought about that waiter that Gina couldn't aggravate that hasn't upset the organization.,sentence_good,TODO
+652,blimp,filler_gap_dependency,wh_questions_subject_gap_long_distance,Gregory could know who that doctor that that ice does impress was criticizing the children.,sentence_bad,TODO
+236,blimp,filler_gap_dependency,wh_questions_subject_gap_long_distance,Christina might forget what that dancer that some legislatures respect is descending every slope.,sentence_bad,TODO
+905,blimp,island_effects,coordinate_structure_constraint_complex_left_branch,Whose synopses will Mitchell examine and Diane talk about?,sentence_good,TODO
+131,blimp,island_effects,coordinate_structure_constraint_complex_left_branch,Which cashiers are these pants impressing and Winston Churchill investigating?,sentence_good,TODO
+174,blimp,island_effects,coordinate_structure_constraint_complex_left_branch,Which is some man fleeing from art galleries and James boycotting?,sentence_bad,TODO
+652,blimp,island_effects,coordinate_structure_constraint_complex_left_branch,What will this doctor approach waitresses and Carl boast about?,sentence_bad,TODO
+803,blimp,npi_licensing,only_npi_licensor_present,Only the patients ever break a carriage.,sentence_good,TODO
+743,blimp,npi_licensing,only_npi_licensor_present,Only gloves ever twisted.,sentence_good,TODO
+634,blimp,npi_licensing,only_npi_licensor_present,Even the pedestrians did ever notice Curtis.,sentence_bad,TODO
+651,blimp,npi_licensing,only_npi_licensor_present,Even Mitchell had ever badgered Debra's mentees to exercise.,sentence_bad,TODO
+521,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adjective_1,The box stunned that important school.,sentence_good,TODO
+388,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adjective_1,That actor hadn't fixed these blue cups.,sentence_good,TODO
+480,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adjective_1,Andrea couldn't think about these red restaurant.,sentence_bad,TODO
+958,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adjective_1,Some hospital embarrasses those orange hospital.,sentence_bad,TODO
+444,blimp,argument_structure,passive_2,Sarah's contractors are confused.,sentence_good,TODO
+752,blimp,argument_structure,passive_2,Patricia isn't referenced.,sentence_good,TODO
+739,blimp,argument_structure,passive_2,Lucille's mentors are blinked.,sentence_bad,TODO
+405,blimp,argument_structure,passive_2,All boys were responded.,sentence_bad,TODO
+297,blimp,subject_verb_agreement,regular_plural_subject_verb_agreement_1,Some waitresses visit Homer.,sentence_good,TODO
+715,blimp,subject_verb_agreement,regular_plural_subject_verb_agreement_1,Every shirt astounds Omar.,sentence_good,TODO
+937,blimp,subject_verb_agreement,regular_plural_subject_verb_agreement_1,Teresa buy that window.,sentence_bad,TODO
+966,blimp,subject_verb_agreement,regular_plural_subject_verb_agreement_1,Amelia were disturbing Julie.,sentence_bad,TODO
+229,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adj_irregular_2,An actress researches this long thesis.,sentence_good,TODO
+813,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adj_irregular_2,Most hamsters find that red tooth.,sentence_good,TODO
+957,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adj_irregular_2,All legislatures criticize those brown oasis.,sentence_bad,TODO
+593,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adj_irregular_2,Some schools love those employed person.,sentence_bad,TODO
+372,blimp,s-selection,animate_subject_passive,Carla isn't found by some pedestrian.,sentence_good,TODO
+975,blimp,s-selection,animate_subject_passive,Joel was talked to by the waiter.,sentence_good,TODO
+896,blimp,s-selection,animate_subject_passive,Mary is helped by the rugs.,sentence_bad,TODO
+477,blimp,s-selection,animate_subject_passive,All steps aren't ascended by the planes.,sentence_bad,TODO
+230,blimp,npi_licensing,npi_present_1,Even the waitresses certainly spoke up.,sentence_good,TODO
+988,blimp,npi_licensing,npi_present_1,Even some people clearly answer.,sentence_good,TODO
+194,blimp,npi_licensing,npi_present_1,Even most legislatures ever urged that university to listen to a man.,sentence_bad,TODO
+596,blimp,npi_licensing,npi_present_1,Even women ever arrive at Spain.,sentence_bad,TODO
+631,blimp,irregular_forms,irregular_past_participle_adjectives,The hidden rice was white.,sentence_good,TODO
+213,blimp,irregular_forms,irregular_past_participle_adjectives,The taken goose isn't purple.,sentence_good,TODO
+71,blimp,irregular_forms,irregular_past_participle_adjectives,The broke glasses aren't whole.,sentence_bad,TODO
+749,blimp,irregular_forms,irregular_past_participle_adjectives,The wore skirts are smooth.,sentence_bad,TODO
+993,blimp,control_raising,tough_vs_raising_1,That sister of Danielle wasn't hard to escape from.,sentence_good,TODO
+806,blimp,control_raising,tough_vs_raising_1,A lot of newspaper articles about the Balkans weren't tough to examine.,sentence_good,TODO
+334,blimp,control_raising,tough_vs_raising_1,These grandsons of Carlos were soon to conceal.,sentence_bad,TODO
+472,blimp,control_raising,tough_vs_raising_1,A lady isn't sure to flee from.,sentence_bad,TODO
+241,blimp,npi_licensing,sentential_negation_npi_licensor_present,Sabrina will not ever worry Tamara.,sentence_good,TODO
+355,blimp,npi_licensing,sentential_negation_npi_licensor_present,Those children had not ever implored that analysis to disturb most actresses.,sentence_good,TODO
+840,blimp,npi_licensing,sentential_negation_npi_licensor_present,Kenneth might fortunately ever bike to these movie theaters.,sentence_bad,TODO
+695,blimp,npi_licensing,sentential_negation_npi_licensor_present,Beth had really ever gotten a job.,sentence_bad,TODO
+946,blimp,control_raising,existential_there_object_raising,Carmen's grandfather will want there to be a senator thinking about what had maneuvered.,sentence_good,TODO
+982,blimp,control_raising,existential_there_object_raising,Dennis had judged there to be a plane confusing Melanie.,sentence_good,TODO
+680,blimp,control_raising,existential_there_object_raising,Rose required there to be a legislature investigating who talks about every patient.,sentence_bad,TODO
+423,blimp,control_raising,existential_there_object_raising,Most mothers of many doctors haven't advised there to be a documentary impressing the children.,sentence_bad,TODO
+507,blimp,filler_gap_dependency,wh_vs_that_with_gap_long_distance,Alicia hasn't investigated who most companies that loved some doctors have boasted about.,sentence_good,TODO
+549,blimp,filler_gap_dependency,wh_vs_that_with_gap_long_distance,Janice remembers who a child that hasn't messed up most plates conceals.,sentence_good,TODO
+917,blimp,filler_gap_dependency,wh_vs_that_with_gap_long_distance,Alicia concealed that every actress that sees fled from.,sentence_bad,TODO
+869,blimp,filler_gap_dependency,wh_vs_that_with_gap_long_distance,Sandra isn't investigating that a lot of associations that praised Carolyn are firing.,sentence_bad,TODO
+794,blimp,island_effects,sentential_subject_island,Who were most students' concealing April upsetting.,sentence_good,TODO
+647,blimp,island_effects,sentential_subject_island,Who had a lot of customers' discovering Karla irritated.,sentence_good,TODO
+930,blimp,island_effects,sentential_subject_island,Who had these glasses' bothering shocked Adam.,sentence_bad,TODO
+514,blimp,island_effects,sentential_subject_island,Who had those turtles' boring shocked Heather.,sentence_bad,TODO
+707,blimp,argument_structure,intransitive,The skateboard rusted.,sentence_good,TODO
+608,blimp,argument_structure,intransitive,A river melted.,sentence_good,TODO
+214,blimp,argument_structure,intransitive,Aaron has lifted.,sentence_bad,TODO
+538,blimp,argument_structure,intransitive,That girl is returning to.,sentence_bad,TODO
+830,blimp,binding,principle_A_domain_3,Alan thinks Carrie could forget herself.,sentence_good,TODO
+277,blimp,binding,principle_A_domain_3,Monica's sister should imagine some boy does watch himself.,sentence_good,TODO
+226,blimp,binding,principle_A_domain_3,Monet's ex-boyfriend can't think Stacey can flee from himself.,sentence_bad,TODO
+744,blimp,binding,principle_A_domain_3,Maria explains Brian won't care for herself.,sentence_bad,TODO
+889,blimp,binding,principle_A_domain_1,Wendy has said that Alan thought about her.,sentence_good,TODO
+187,blimp,binding,principle_A_domain_1,Melinda imagines that Harvard University had criticized her.,sentence_good,TODO
+7,blimp,binding,principle_A_domain_1,A lot of people imagined that Sabrina had aggravated themselves.,sentence_bad,TODO
+522,blimp,binding,principle_A_domain_1,All doctors imagine that some movie might upset themselves.,sentence_bad,TODO
+859,blimp,determiner_noun_agreement,determiner_noun_agreement_1,Colleen left this patient.,sentence_good,TODO
+726,blimp,determiner_noun_agreement,determiner_noun_agreement_1,Ella hasn't healed that boy.,sentence_good,TODO
+139,blimp,determiner_noun_agreement,determiner_noun_agreement_1,The children investigate that waiters.,sentence_bad,TODO
+22,blimp,determiner_noun_agreement,determiner_noun_agreement_1,Janice had worn this shawls.,sentence_bad,TODO
+890,blimp,island_effects,left_branch_island_echo_question,Karla was aggravating what library?,sentence_good,TODO
+185,blimp,island_effects,left_branch_island_echo_question,That drawing has looked like what stimuli?,sentence_good,TODO
+43,blimp,island_effects,left_branch_island_echo_question,Which had this student investigated guest?,sentence_bad,TODO
+767,blimp,island_effects,left_branch_island_echo_question,What were these jackets astounding child?,sentence_bad,TODO
+728,blimp,anaphor_agreement,anaphor_gender_agreement,Irene is disgusting herself.,sentence_good,TODO
+894,blimp,anaphor_agreement,anaphor_gender_agreement,Carla should think about herself.,sentence_good,TODO
+736,blimp,anaphor_agreement,anaphor_gender_agreement,Wayne conceals herself.,sentence_bad,TODO
+897,blimp,anaphor_agreement,anaphor_gender_agreement,Tonya has argued about himself.,sentence_bad,TODO
+433,blimp,irregular_forms,irregular_past_participle_verbs,Heather wrote.,sentence_good,TODO
+152,blimp,irregular_forms,irregular_past_participle_verbs,Melinda got a job.,sentence_good,TODO
+177,blimp,irregular_forms,irregular_past_participle_verbs,All guys forgotten Kenneth.,sentence_bad,TODO
+262,blimp,irregular_forms,irregular_past_participle_verbs,This pedestrian hidden Alexander.,sentence_bad,TODO
+518,blimp,control_raising,tough_vs_raising_2,Anna isn't unlikely to sigh.,sentence_good,TODO
+418,blimp,control_raising,tough_vs_raising_2,Stephen's handymen are about to disagree with Janet.,sentence_good,TODO
+903,blimp,control_raising,tough_vs_raising_2,Nancy wasn't unpleasant to believe Guy to protest.,sentence_bad,TODO
+737,blimp,control_raising,tough_vs_raising_2,Keith was tough to find out who is getting a job.,sentence_bad,TODO
+462,blimp,npi_licensing,matrix_question_npi_licensor_present,Had Vanessa ever concurred?,sentence_good,TODO
+986,blimp,npi_licensing,matrix_question_npi_licensor_present,Had these women ever divorced?,sentence_good,TODO
+679,blimp,npi_licensing,matrix_question_npi_licensor_present,This cucumber did ever ripen.,sentence_bad,TODO
+209,blimp,npi_licensing,matrix_question_npi_licensor_present,Christopher had ever driven to this mall.,sentence_bad,TODO
+796,blimp,npi_licensing,npi_present_2,Many waiters clearly profit.,sentence_good,TODO
+316,blimp,npi_licensing,npi_present_2,Those boys clearly force William to disappear.,sentence_good,TODO
+203,blimp,npi_licensing,npi_present_2,Theresa did ever depart.,sentence_bad,TODO
+749,blimp,npi_licensing,npi_present_2,All adults ever testified.,sentence_bad,TODO
+43,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adj_irregular_1,Most commentaries hadn't impressed those clever men.,sentence_good,TODO
+650,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adj_irregular_1,Paul stunned that good child.,sentence_good,TODO
+259,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adj_irregular_1,Sherry hadn't insulted those clever alumnus.,sentence_bad,TODO
+362,blimp,determiner_noun_agreement,determiner_noun_agreement_with_adj_irregular_1,Most waitresses hate these out in the open child.,sentence_bad,TODO
+758,blimp,subject_verb_agreement,regular_plural_subject_verb_agreement_2,The waiter has escaped.,sentence_good,TODO
+958,blimp,subject_verb_agreement,regular_plural_subject_verb_agreement_2,The teacher hasn't exited the high schools.,sentence_good,TODO
+698,blimp,subject_verb_agreement,regular_plural_subject_verb_agreement_2,The adults is departing.,sentence_bad,TODO
+557,blimp,subject_verb_agreement,regular_plural_subject_verb_agreement_2,The girls has explained everything.,sentence_bad,TODO
+178,blimp,filler_gap_dependency,wh_vs_that_no_gap_long_distance,Katherine figured out that a lot of adults that fall asleep skate around a lot of restaurants.,sentence_good,TODO
+630,blimp,filler_gap_dependency,wh_vs_that_no_gap_long_distance,Stacy learned that those boys that can scratch hadn't disliked most teenagers.,sentence_good,TODO
+420,blimp,filler_gap_dependency,wh_vs_that_no_gap_long_distance,Some waitress reveals what every adult that found Martha can mess up a lot of malls.,sentence_bad,TODO
+345,blimp,filler_gap_dependency,wh_vs_that_no_gap_long_distance,Rebecca hasn't concealed what a pedestrian that has these convertibles hasn't criticized many public parks.,sentence_bad,TODO
+532,blimp,control_raising,existential_there_subject_raising,There hasn't proven to be a school astounding Jesus.,sentence_good,TODO
+412,blimp,control_raising,existential_there_subject_raising,There can happen to be few reports vanishing.,sentence_good,TODO
+944,blimp,control_raising,existential_there_subject_raising,There is managing to be a teacher advising Leslie's contractor to forfeit.,sentence_bad,TODO
+655,blimp,control_raising,existential_there_subject_raising,There is excited to be a shoe scaring the Impressionists.,sentence_bad,TODO
+990,blimp,argument_structure,transitive,Some daughters of Becca had alarmed Paula.,sentence_good,TODO
+742,blimp,argument_structure,transitive,Many organizations worry Susan.,sentence_good,TODO
+608,blimp,argument_structure,transitive,Alan had shrugged Joel.,sentence_bad,TODO
+734,blimp,argument_structure,transitive,A nephew of Melanie hadn't compromised every grocery store.,sentence_bad,TODO
+941,blimp,subject_verb_agreement,distractor_agreement_relational_noun,The nephews of Edward aren't running around a grocery store.,sentence_good,TODO
+13,blimp,subject_verb_agreement,distractor_agreement_relational_noun,A nephew of senators is wanting to murmur.,sentence_good,TODO
+469,blimp,subject_verb_agreement,distractor_agreement_relational_noun,The picture of most students don't alarm Amelia.,sentence_bad,TODO
+789,blimp,subject_verb_agreement,distractor_agreement_relational_noun,A daughter of the Impressionists whisper.,sentence_bad,TODO
+900,blimp,binding,principle_A_c_command,Doctors who had cured Derek are concealing themselves.,sentence_good,TODO
+168,blimp,binding,principle_A_c_command,Some university that will distract Teresa wasn't helping itself.,sentence_good,TODO
+571,blimp,binding,principle_A_c_command,Those guys who had helped Brett had found himself.,sentence_bad,TODO
+460,blimp,binding,principle_A_c_command,A girl that hadn't cleaned every tomato knows itself.,sentence_bad,TODO
+188,blimp,filler_gap_dependency,wh_questions_object_gap,An adult thinks about the ice that Rebecca was taking.,sentence_good,TODO
+513,blimp,filler_gap_dependency,wh_questions_object_gap,Melinda would notice cashiers that Lissa can leave.,sentence_good,TODO
+455,blimp,filler_gap_dependency,wh_questions_object_gap,Many senators won't think about who every actress fired most students.,sentence_bad,TODO
+227,blimp,filler_gap_dependency,wh_questions_object_gap,Roger has investigated who cashiers cure a driver.,sentence_bad,TODO
+721,blimp,island_effects,coordinate_structure_constraint_object_extraction,What had Caroline and Robert passed?,sentence_good,TODO
+927,blimp,island_effects,coordinate_structure_constraint_object_extraction,Who would Lissa and Jennifer praise?,sentence_good,TODO
+646,blimp,island_effects,coordinate_structure_constraint_object_extraction,What had Tanya talked to and Carl?,sentence_bad,TODO
+661,blimp,island_effects,coordinate_structure_constraint_object_extraction,What would Melanie sell and Roger?,sentence_bad,TODO
+207,blimp,binding,principle_A_domain_2,Anna wasn't explaining Edward questions himself.,sentence_good,TODO
+261,blimp,binding,principle_A_domain_2,Omar says Marla kissed herself.,sentence_good,TODO
+693,blimp,binding,principle_A_domain_2,Grace hadn't said a projector does worry herself.,sentence_bad,TODO
+352,blimp,binding,principle_A_domain_2,Larry explained Helen talks about himself.,sentence_bad,TODO
+510,blimp,determiner_noun_agreement,determiner_noun_agreement_2,William is leaving that library.,sentence_good,TODO
+516,blimp,determiner_noun_agreement,determiner_noun_agreement_2,A lot of ladies know that driver.,sentence_good,TODO
+883,blimp,determiner_noun_agreement,determiner_noun_agreement_2,These teachers discuss these doctor.,sentence_bad,TODO
+658,blimp,determiner_noun_agreement,determiner_noun_agreement_2,Heidi discovered this associations.,sentence_bad,TODO
+sks13,glue,cola,null,I put.,0,TODO
+m_02,glue,cola,null,Miss Bates can chatter on for hours.,1,TODO
+70747c,glue,mnli,null,"{Further, the Comptroller and Auditor General has qualified his opinion on DWP's fiscal year 1995 through fiscal year 2000 financial statements because of the level of fraud and error identified in the benefit programs., There was no fraud and error found in the benefit program., Is the second sentence entailment, contradiction, or neutral to the first?}",contradiction,TODO
+137212e,glue,mnli,null,"{On ranches, border collie puppies are taken from the litter and tested for their instinctual desire to herd sheep., Border collies are taken from their litters as puppies on ranches., Is the second sentence entailment, contradiction, or neutral to the first?}",entailment,TODO
+54829,glue,qnli,null,"{Which dynasty did Yellow Tiger declare himself the emperor of?, Upon capturing it, he declared himself emperor of the Daxi Dynasty (大西王朝)., Is the second sentence entailment to the first?}",entailment,TODO
+56525,glue,qnli,null,"{What type of aircraft did the Torch team travel in?, Internationally, the torch and its accompanying party traveled in a chartered Air China Airbus A330 (registered B-6075), painted in the red and yellow colors of the Olympic Games., Is the second sentence entailment to the first?}",entailment,TODO
+401565,glue,qqp,null,"{In the 1880s, if the whole British Empire declared war on France, Germany, and Spain, who would win?, Who would win if Germany (NATO not involved) declared war to Russia in modern times?, Are these two questions duplicates?}",0,TODO
+12888,glue,qqp,null,"{What are the benefits of GST bill for common peoples?, What's the importance of GST bill in India?, Are these two questions duplicates?}",1,TODO
+79065,msgs,null,control_raising_lexical_content_the,"{This grandson repaired every screen and every adult is seeming to discuss that classmate., Is the sentence an example of control or raising, Is the word ""the"" present?}","{0, 0}",TODO
+44008,msgs,null,control_raising_lexical_content_the,"{The French teachers cured that associate and many girls fail to impress most children., Is the sentence an example of control or raising, Is the word ""the"" present?}","{1, 1}",TODO
+27140,msgs,null,main_verb_lexical_content_the_2,"{The speculation that this government works with these grandmothers who waved wasn't embarrassing a waitress., Is the main verb in the progressive form?, Is the word ""the"" present?}","{1, 1}",TODO
+27101,msgs,null,main_verb_lexical_content_the_2,"{Every wife would destroy some dishes many men who aren't scanning a lot of students couldn't conceal., Is the main verb in the progressive form?, Is the word ""the"" present?}","{0, 0}",TODO
+77336,msgs,null,syntactic_category_lexical_content_the,"{Fewer than three French teachers haven't admired an ex-girlfriend and the ex-husband on this college campus is slim., Is there an adjective present?, Is the word ""the"" present?}","{1, 1}",TODO
+58504,msgs,null,syntactic_category_lexical_content_the,"{Most ships have looked like the photograph and Paul is a bad doctor., Is there an adjective present?, Is the word ""the"" present?}","{1, 1}",TODO
+32769,msgs,null,main_verb_relative_token_position_4,"{Every boyfriend had listened to a man that wouldn't disturb some French teacher the daughter is shaking., Is the main verb in the progressive form?, Does the word 'the' precede the word 'a'?}","{0, 0}",TODO
+37569,msgs,null,main_verb_relative_token_position_5,"{That grandmother a library is criticizing explained that that French teacher has descended the slope., Is the main verb in the progressive form?, Does the word 'the' precede the word 'a'?}","{0, 0}",TODO
+56209,msgs,null,control_raising_relative_token_position,"{A man discussed some man and every hospital turns out to buy the beer., Is the sentence an example of control or raising, Does the word 'the' precede the word 'a'?}","{0, 0}",TODO
+60985,msgs,null,control_raising_relative_token_position,"{A contractor visited the child and that tutor had happened to attack some partner., Is the sentence an example of control or raising, Does the word 'the' precede the word 'a'?}","{0, 0}",TODO
+73545,msgs,null,syntactic_category_relative_position,"{A lady had praised each patient and the guy is Rodney., Is there an adjective present?, Does the word 'the' precede the word 'a'?}","{0, 0}",TODO
+62505,msgs,null,syntactic_category_relative_position,"{A doctor drank any beer and the mentor is Aaron., Is there an adjective present?, Does the word 'the' precede the word 'a'?}","{0, 0}",TODO
+25104,msgs,null,control_raising_control,"{A lot of teenagers will discover these eyes and this customer is overjoyed to hug Erin., Is the sentence an example of control or raising}",{1},TODO
+33389,msgs,null,control_raising_control,"{Most piano teachers breed a lot of fish and these senators believe Kevin to shoot that teacher., Is the sentence an example of control or raising}",{0},TODO
+23784,msgs,null,main_verb_control_1,"{A notion that a doctor destroyed a car that will maneuver isn't stunning the contractors, Is the main verb in the progressive form?}",{1},TODO
+37065,msgs,null,main_verb_control_5,"{A notion that a piano teacher isn't revealing the ship that had tipped over couldn't disgust the senators, Is the main verb in the progressive form?}",{0},TODO
+28072,msgs,null,syntactic_category_control,"{The patient at those movie theaters is organized., Is there an adjective present?}",{1},TODO
+31184,msgs,null,syntactic_category_control,"{Phillip is the interesting patient., Is there an adjective present?}",{1},TODO
+20043,msgs,null,lexical_content_the_control,"{Every man that complains about all paralyses doubted that every doctor fixes no glass, Is the word 'the' present?}",{0},TODO
+26758,msgs,null,lexical_content_the_control,"{Some ladies who aren't complaining about that teacher remember that these patients underwhelmed the bank, Is the word 'the' present?}",{1},TODO
+27232,msgs,null,relative_position_control,"{Every driver who notices the nose wouldn't doubt that this student hurt a son, Does the word 'the' precede the word 'a'?}",{1},TODO
+24044,msgs,null,relative_position_control,"{The lawyer who didn't reveal a gate hasn't disliked that that tutor has taken this foot, Does the word 'the' precede the word 'a'?}",{1},TODO
