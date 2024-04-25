@@ -3,7 +3,7 @@ from nltk.tokenize import sent_tokenize
 import polars as pl 
 import os
 
-df_schema = pl.DataFrame(
+""" df_schema = pl.DataFrame(
     {   
         "sentence_id": pl.Int32,
         "paragraph_id": pl.Int32,
@@ -15,9 +15,9 @@ df_schema = pl.DataFrame(
         "source": pl.String,
         "URL": pl.String
     }
-)
+) """
 
-dir = "/Users/goose/Documents/CPSC 448/Sentence Shuffling/data/formatted"
+# dir = "/Users/goose/Documents/CPSC 448/Sentence Shuffling/data/formatted"
 sources = [{'name': 'ChiSCor', 'path': "/Users/goose/Documents/CPSC 448/Sentence Shuffling/data/formatted/ChiSCor english text", 'URL': "https://osf.io/5h7za/?view_only=705c553e922046058ef9df52b4ac8ed7", "single?": 0},
            {'name': 'The Aesop for Children', 'path': "/Users/goose/Documents/CPSC 448/Sentence Shuffling/data/formatted/The Aesop for Children", 'URL': "https://www.gutenberg.org/cache/epub/19994/pg19994-images.html", "single?": 0},
            {'name': 'The Works of Edgar Allen Poe Vol. 2', 'path': "/Users/goose/Documents/CPSC 448/Sentence Shuffling/data/formatted/The Works of Edgar Allen Poe Vol 2", 'URL': "https://www.gutenberg.org/cache/epub/2148/pg2148-images.html", "single?": 1}]
