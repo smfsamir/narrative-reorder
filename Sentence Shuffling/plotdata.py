@@ -1,5 +1,6 @@
 import seaborn as sns
 import polars as pl
+import matplotlib.pyplot as plt
 import json
 
 # Apply the default seaborn theme
@@ -18,7 +19,10 @@ frame = pl.DataFrame({
 })
 
 # Create a visualization
-sns.histplot(
+plot = sns.histplot(
     data=frame,
-    x="prompt_length"
-)
+    x="prompt_length",
+    stat="count"
+).set(title='Prompt Length', xlabel='Number of Sentences')
+
+plt.savefig('histogram.png', dpi=300)
