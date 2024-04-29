@@ -65,7 +65,7 @@ for source in sources :
                             "sentence": sentence,
                             "paragraph_index": parindex,
                             "sentence_index": sentindex,
-                            "title": title,
+                            "story_title": title,
                             "source": source['name'],
                             "URL": source['URL']
                         }

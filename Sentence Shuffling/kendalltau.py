@@ -66,9 +66,23 @@ third = third.with_columns(
     pl.struct(['anno_label', 'label']).map_elements(lambda x: normalised_kendall_tau_distance(x['anno_label'], x['label'])).alias('kendall_tau_distance')
 )
 
+anno_agreement = pl.read_csv('anno_data/anno_agreement.csv')
+
+anno_agreement = anno_agreement.with_columns(
+    pl.col('first_anno').str.json_decode().alias('first_anno'),
+    pl.col('second_anno').str.json_decode().alias('second_anno'),
+    pl.col('third_anno').str.json_decode().alias('third_anno')
+)
+
+anno_agreement = anno_agreement.with_columns(
+    pl.struct(['first_anno', 'second_anno']).map_elements(lambda x: normalised_kendall_tau_distance(x['first_anno'], x['second_anno'])).alias('first_second_KTD'),
+    pl.struct(['first_anno', 'third_anno']).map_elements(lambda x: normalised_kendall_tau_distance(x['first_anno'], x['third_anno'])).alias('first_third_KTD'),
+    pl.struct(['third_anno', 'second_anno']).map_elements(lambda x: normalised_kendall_tau_distance(x['third_anno'], x['second_anno'])).alias('third_second_KTD')
+)
 
 
-## print(first)
+
+""" ## print(first)
 print(sp.stats.spearmanr(first['label_length'], first['kendall_tau_distance']))
 print(first.mean())
 
@@ -78,8 +92,12 @@ print(second.mean())
 
 ## print(third.head())
 print(sp.stats.spearmanr(third['label_length'], third['kendall_tau_distance']))
-print(third.mean())
+print(third.mean()) """
+
+print(anno_agreement.head())
+print(anno_agreement.mean())
 
 """ first.write_ndjson("/Users/goose/Documents/Projects/CPSC 448/narrative-reorder/Sentence Shuffling/anno_data/first.csv")
 second.write_ndjson("/Users/goose/Documents/Projects/CPSC 448/narrative-reorder/Sentence Shuffling/anno_data/second.csv")
-third.write_ndjson("/Users/goose/Documents/Projects/CPSC 448/narrative-reorder/Sentence Shuffling/anno_data/third.csv") """
+third.write_ndjson("/Users/goose/Documents/Projects/CPSC 448/narrative-reorder/Sentence Shuffling/anno_data/third.csv")  """
+anno_agreement.write_ndjson("/Users/goose/Documents/Projects/CPSC 448/narrative-reorder/Sentence Shuffling/anno_data/anno_agreement_KTD.csv")
